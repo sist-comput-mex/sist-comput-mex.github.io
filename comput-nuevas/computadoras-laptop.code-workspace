@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "computadoras-laptop",
+			"path": ".."
+		},
+		{
+			"name": "img-principal",
+			"path": "../../paginas del negocio/computadoras-accesorios/img-principal"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "computadoras-laptop"
+	}
+}
